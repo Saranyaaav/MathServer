@@ -138,4 +138,6 @@ urlpatterns = [
 ![Alt text](<MathServer 02.png>)
 
 ## RESULT:
+___
 The program for performing server side processing is completed successfully.
+___
